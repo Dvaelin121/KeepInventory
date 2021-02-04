@@ -1,6 +1,10 @@
 ## KeepInventory
 PMMP | KeepInventory
-Download Link: 
+
+## Info
+Permission:
+- **Default** : OP
+- **Permissions** : keepinventory.true
 
 ---
 
