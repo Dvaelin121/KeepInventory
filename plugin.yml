@@ -1,0 +1,9 @@
+name: KeepInventory
+author: Dvaelin
+main: Dvaelin\KeepInventory\KeepInventory
+version: 1.0.0
+api: 3.15.0
+
+permissions:
+  keepinventory.true:
+    default: op
