@@ -3,7 +3,7 @@ PMMP | KeepInventory
 
 ---
 
-![icon large](https://imgbb.com/"><img src="https://i.ibb.co/JFrzWNd/icon.png)
+![icon large](https://i.ibb.co/JFrzWNd/icon.png)
 
 ---
 
