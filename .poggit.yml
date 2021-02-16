@@ -6,4 +6,6 @@ projects:
   KeepInventory:
     path: ""
     Icon: "icon.png"
+    lint:
+      phpstan: false
 ...
